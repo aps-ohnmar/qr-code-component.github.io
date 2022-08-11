@@ -1,0 +1,37 @@
+
+.qr-box {
+  max-width: 295px;
+  background-color: $primary-color;
+  padding: 15px;
+  border-radius: 10px;
+
+  img {
+    border-radius: 10px;
+  }
+}
+
+.txt {
+  text-align: center;
+
+  p {
+    color: $dark-blue;
+  }
+}
+
+@media (min-width: 800px) {
+
+  .box {
+    background-color: $light-gary;
+    min-width: 1295px;
+    min-height: 720px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 2px 6px 10px 5px rgba(201,206,212,1);
+    -webkit-box-shadow: 2px 6px 10px 5px rgba(201,206,212,1);
+    -moz-box-shadow: 2px 6px 10px 5px rgba(201,206,212,1);
+  }
+  
+}
+
+
