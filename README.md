@@ -9,6 +9,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor]
 
 ### Links
 
+https://aps-ohnmar.github.io/qr-code-component.github.io/
+
 ## My process
 
 ### Built with
